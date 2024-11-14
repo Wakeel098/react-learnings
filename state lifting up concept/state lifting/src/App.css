@@ -1,0 +1,9 @@
+ #parent{
+  background: grey;
+  color: azure;
+  border:  1px solid white;
+  height: 50vh;
+  width: 50vw ;
+  padding: 20px;
+
+ }
